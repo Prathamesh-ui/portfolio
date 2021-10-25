@@ -1,0 +1,49 @@
+.name{
+    color: white;
+    font-size: 72px;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+    /* border: 2px solid white; */
+}
+.name span{
+    color: violet;
+}
+
+.sub{
+    color: wheat;
+    margin: 0px;
+    font-size: 18px;
+}
+
+.para{
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+    /* border: 2px solid firebrick; */
+    margin-left: 100px;
+}
+
+.logo{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.logo img{
+    filter: invert(1);
+    height: 36px;
+    width: 36px;
+    margin: 0px 20px;
+    cursor: pointer;
+}
+

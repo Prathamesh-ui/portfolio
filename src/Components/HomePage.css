@@ -1,0 +1,6 @@
+.home{
+    background: url('../h21.jpg') no-repeat center center;
+  height: 720px;
+  width: 100%;
+  background-size: cover;
+}
